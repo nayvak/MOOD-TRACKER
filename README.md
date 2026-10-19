@@ -1,5 +1,5 @@
 #MOOD TRACKER
-This is a desktop python application for tracking your moods and organizing your day.
+This is a desktop python application for tracking your moods and organizing your day. In a world where AI has taken over everything, we have no clue on how to process our emotions. Whenever we feel off, we just go on an AI app, and it helps us process everything. But this app allows you to process your emotions without the help of AI.
 
 ##FEATURES 
 1. **Mood Check-in**: Within this feature, you get to select your mood from the 7 given moods. You can only put one entry in a day. By clicking the previous history button, you can see all the entries you have made with their respective dates.
@@ -12,3 +12,6 @@ This is a desktop python application for tracking your moods and organizing your
 -Python
 -CustomTkinter
 -Matplotlib
+
+##MADE BY
+-Navya (an 11th grader from India who had no knowledge about coding)
