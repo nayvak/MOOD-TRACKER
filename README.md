@@ -14,4 +14,4 @@ This is a desktop python application for tracking your moods and organizing your
 -Matplotlib
 
 ##MADE BY
--Navya (an 11th grader from India who had no knowledge about coding)
+-Geetanjali (an 11th grader from India who had no knowledge about coding)
